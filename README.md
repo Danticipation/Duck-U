@@ -1,3 +1,7 @@
+> **⚠️ Archived.** This repository has been consolidated into [Danticipation/get-ducked](https://github.com/Danticipation/get-ducked). It is preserved here for historical reference only.
+
+
+
 # Duck U ~ Don't be Wack, Do Quack!
 
 React Native (Expo) + Firebase app: scan QR stickers to "duck" friends, earn points, streaks, and compete on leaderboards.
